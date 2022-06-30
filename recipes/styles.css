@@ -1,12 +1,30 @@
-.heading{
+.list{
 
-    color: #DCD7C9;
-    text-align: center;
-
+    color: #A27B5C;
 
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 100px;
 }
+
+
+
 *{
     background-color:#2C3639 ;
 
+}
+
+.mainheading{
+
+    color: #DCD7C9;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    margin: 50px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
